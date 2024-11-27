@@ -1,0 +1,6 @@
+Arcane 6
+Type: detection
+Range: 1,200 miles
+Duration: concentration
+
+This spell allows the caster to sense the direction and approximate distance to a familiar or clearly envisioned object, even over vast ranges (up to 1,200 miles or 50 24-mile hexes). He can search for general items, in which case he senses the direction and distance to the nearest one of its kind. Alternatively the caster can search for a unique item that he has observed firsthand (not through divination). If the item sought is not within range, the casters learns that instead. If the object comes into range later in the duration of the spell, either because the caster moved or the object did, the caster will learn the direction and distance at that time. A locate distant object spell is not blocked by earth, stone, or wood, but can be blocked by even a thin sheet of lead or gold (in which case the caster also senses nothing). Creatures cannot be located with this spell, except indirectly (e.g. a particular item worn by a creature might reveal its location).

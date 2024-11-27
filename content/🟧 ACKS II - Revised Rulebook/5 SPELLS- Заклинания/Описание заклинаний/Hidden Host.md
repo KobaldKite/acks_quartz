@@ -1,0 +1,8 @@
+Arcane 4, Divine 6
+Type: illusion
+Range: 240’
+Duration: special
+
+This spell conceals a complete military unit of up to 120 man- sized creatures, 60 large (cavalry or ogre-sized) creatures, 20 huge creatures, 5 gigantic creatures, or 1 colossal creature. The creatures of the hidden host appear to be natural effects of the terrain (trees in a forest, stalagmites in a cave, coral reefs in a sea, boulders on a rocky slope, snow drifts on a tundra, shrubs on a moor, etc.). The entirety of the hidden host must be within range of the caster at the time the spell is cast. Only those creatures the caster wishes to hide are affected, and then only if they are willing to be concealed. The caster may include himself among the affected creatures.
+
+The affected creatures are concealed from visual detection by others passing the area for so long as they remain relatively still. An affected creature can sit down or stand up, drink water from a canteen, relieve itself, unsheathe a weapon, or take other actions without revealing itself, but if it ever moves more than 5’ or attacks, the illusion is dispelled for that creature. Casting or concentrating on a spell does not cause an affected creature to be revealed unless the spell affects enemies. Creatures who remain still continue to be hidden. The caster may end the spell early if he wishes by speaking a single word. The illusion is otherwise perpetual, lasting until dispelled or until the caster dies or decides to stop sustaining it. The illusion that conceals the hidden host cannot be disbelieved.

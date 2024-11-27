@@ -1,0 +1,10 @@
+Arcane 4
+Type: death
+Range: 120’
+Duration: special
+
+This spell creates an invisible crushing vise around the entire body of the target creature. The target must make a Death saving throw. If the save succeeds, the target breaks out of the iron maiden; it suffers 1d6  damage but the spell ends. If the save fails, the target is imprisoned by the iron maiden. It suffers 1d12  damage and is held helpless by the spell.
+
+When helpless, a creature cannot attack, cast spells, or move. A helpless creature gains no benefit to its AC from its DEX or shield (if any). A helpless creature can be ambushed or backstabbed by creatures capable of doing so. All attack throws against helpless creatures gain a +2 bonus, or a +4 bonus if the attacker ambushes or backstabs the helpless creature. The helpless creature is dealt the attack’s ordinary damage, or the attack’s ordinary damage multiplied by two or more from ambush or backstab. Melee attack throws against helpless creatures automatically hit if the attacker is of the same or larger size category than the helpless creature. If the attacker is not engaged, and his attack is capable of damaging the helpless creature, then the helpless creature may be automatically slain. The attacker cannot cleave thereafter, however. Otherwise, the helpless creature may be dealt the attack’s ordinary damage.
+
+When the caster’s next initiative number comes up, if the caster maintains concentration on the spell, then the imprisoned target must make another saving throw. If the save succeeds, the target breaks out (suffering 1d6  damage) and ends the spell. If the save fails, the target continues to be imprisoned (suffering 1d12  damage and remaining helpless). The iron maiden lasts until dispelled, the caster stops concentrating upon it, or the target dies or makes a successful saving throw and breaks out.

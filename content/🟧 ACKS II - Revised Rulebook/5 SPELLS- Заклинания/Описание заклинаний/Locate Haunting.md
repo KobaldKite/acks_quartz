@@ -1,0 +1,6 @@
+Arcane 5, Divine 5
+Type: detection
+Range: 12 miles
+Duration: concentration
+
+This spell allows the caster to sense the direction and approximate distance to the nearest undead creatures within 12 miles (i.e. within the area of a 24-mile hex). The caster can search for undead in general, in which case the spell will reveal the type of, as well as direction and approximate distance to, the nearest undead of any sort. Alternatively, the caster can locate a particular undead creature (e.g. “the mummy Amon-Hotep”) that he either can identify by its true name or has physically encountered in the past. If the creature sought is not within range, the caster senses nothing. If the target comes into range later in the duration of the spell, either because the caster moved or the undead did, the caster will learn the direction and distance at that time. A locate haunting spell is not blocked by earth, stone, or wood, but can be blocked by even a thin sheet of lead or gold (in which case the caster also senses nothing).

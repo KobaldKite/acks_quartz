@@ -1,0 +1,6 @@
+Arcane 6, Divine 6
+Type: detection
+Range: 12 miles
+Duration: concentration
+
+This spell allows the caster to sense the direction and approximate distance to the most potent place of power within 12 miles (i.e. within the area of a 24-mile hex). The caster can search for places of power in general, in which case the spell will reveal the type of place it detects as well as direction and distance. Alternatively, he can specify a particular type of place (e.g. “sinkholes of evil”), in which case the spell will reveal the direction and distance to the most potent place of that type. If that type of place of power is not within range, the caster senses nothing. If the place of powers comes into range later in the duration of the spell, the caster will learn the direction and distance at that time. Locate place of power is not blocked by earth, stone, or wood, but can be blocked by even a thin sheet of lead or gold (in which case the caster also senses nothing). Locate place of power is a complex spell that requires 1 turn (10 minutes) to cast.
