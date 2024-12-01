@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Добро пожаловать на Acks 2 Wiki
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Если хотите узнать больше и поддержать дизайнера системы, подробности можно найти [здесь](https://autarch.co/)
